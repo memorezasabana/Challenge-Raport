@@ -4,7 +4,7 @@
 ![Alt Text](https://github.com/memorezasabana/Challenge-Raport/blob/master/SS%20RAPORT/1.png)
 
 Pada bagian tampilan awal ini menampilkan hasil dari input data yang nantinya akan saya jelaskan di bawah. Desain yang saya gunakan menggunakan CSS, bootstrap, dan juga fontawesome. Penjelasan isi :
-Kok ada rata-rata, predikat, dan juga keterangan ?
+- Kok ada rata-rata, predikat, dan juga keterangan ?
 Nah, untuk ketiga data tersebut saya dapatkan dari input beberapa nilai yang nantinya bisa dimasukkan rumus kemudian bagian predikat dan keterangannya masuk ke dalam percabangan. Untuk data tersebut saya urutkan berdasarkan NIS, karena saya menggunakan ORDER BY nis. Namun, apabila ingin mengganti diurutkan berdasarkan peringkat tinggal mengganti dengan ORDER BY rata-rata.
 Desain bagian header dan footernya saya nanti akan tampil lagi apabila membuka bagian input data.
 
